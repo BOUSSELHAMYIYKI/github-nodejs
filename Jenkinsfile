@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        nodejs 'node18' // nom de ta version NodeJS définie dans Jenkins
+        nodejs 'NodeJS' // nom de ta version NodeJS définie dans Jenkins
     }
 
     stages {
